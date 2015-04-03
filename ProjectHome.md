@@ -1,0 +1,3 @@
+In computer science, raptor codes are the first known class of fountain codes with linear time encoding and decoding. They were invented by Amin Shokrollahi in 2000/2001 and were first published in 2004 as an extended abstract. Raptor codes are a significant theoretical and practical improvement over LT codes, which were the first practical class of fountain codes.(Wikipedia)
+
+This open source implementation of Raptor code has been programmed and tested by Hossein Rouhani Zeidanloo. It has been implemented mainly for Research purposes.
